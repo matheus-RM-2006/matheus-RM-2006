@@ -1,8 +1,8 @@
-## olla meu nome e Matheus Reis Massaferro
+## Oi meu nome e Matheus Reis Massaferro
 
- - estou estudando no alura
- - estou me desenvolvendo a linguaguem javascript
- - utiliso esse espaso
+ - sou estudando na plataforma alura.
+ - estou me desenvolvendo a linguaguem javascript para desenvolver novas tecinicas.
+ - utiliso esse espaso para compartilhar minhas criaços de projetos.
 
 
 
